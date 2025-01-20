@@ -687,5 +687,7 @@ const Product = ({prod}) => {
 
 export default Product
 
-```# farmart-frontend
+```
+
+# farmart-frontend
 # farmart-frontend
